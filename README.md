@@ -1,3 +1,8 @@
-# NYU CS Wiki
+# Sachin's fork of NYU CS wiki
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Used to merge
+
+- https://github.com/BUGS-NYU/nyu-cs-wiki/pull/19
+- https://github.com/BUGS-NYU/nyu-cs-wiki/pull/21
+- https://github.com/BUGS-NYU/nyu-cs-wiki/pull/25
+- https://github.com/BUGS-NYU/nyu-cs-wiki/pull/26
