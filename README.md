@@ -8,6 +8,7 @@ Used to merge
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/26
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/44
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/43
+- https://github.com/BUGS-NYU/nyu-cs-wiki/pull/65
 
 TODO
 
