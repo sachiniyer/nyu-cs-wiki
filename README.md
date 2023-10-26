@@ -9,8 +9,9 @@ Used to merge
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/44
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/43
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/65
+- https://github.com/BUGS-NYU/nyu-cs-wiki/pull/66
 
-TODO
+# TODO
 
 - [ ] add more fellowships https://github.com/anu0012/awesome-computer-science-opportunities#fellowshipsscholarships
 - ~~[ ] add all CS at NYU from Davis https://cs.nyu.edu/~davise/CSatNYU.html~~
