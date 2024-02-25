@@ -2,14 +2,18 @@
 
 Used to merge
 
+[contirbutions link](https://github.com/BUGS-NYU/nyu-cs-wiki/pulls?q=is%3Apr+author%3Asachiniyer+)
+
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/19
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/21
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/25
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/26
-- https://github.com/BUGS-NYU/nyu-cs-wiki/pull/44
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/43
+- https://github.com/BUGS-NYU/nyu-cs-wiki/pull/44
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/65
 - https://github.com/BUGS-NYU/nyu-cs-wiki/pull/66
+- https://github.com/BUGS-NYU/nyu-cs-wiki/pull/77
+- https://github.com/BUGS-NYU/nyu-cs-wiki/pull/94
 
 # TODO
 
